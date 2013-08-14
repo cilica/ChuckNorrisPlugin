@@ -1,0 +1,1 @@
+An Eclipse plugin that gives a funny Chuck Norris quote each time you click a button.
